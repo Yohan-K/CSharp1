@@ -1,0 +1,16 @@
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\bin\Debug\net5.0\CSharp1.exe
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\bin\Debug\net5.0\CSharp1.deps.json
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\bin\Debug\net5.0\CSharp1.runtimeconfig.json
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\bin\Debug\net5.0\CSharp1.runtimeconfig.dev.json
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\bin\Debug\net5.0\CSharp1.dll
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\bin\Debug\net5.0\ref\CSharp1.dll
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\bin\Debug\net5.0\CSharp1.pdb
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\obj\Debug\net5.0\CSharp1.csprojAssemblyReference.cache
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\obj\Debug\net5.0\CSharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\obj\Debug\net5.0\CSharp1.AssemblyInfoInputs.cache
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\obj\Debug\net5.0\CSharp1.AssemblyInfo.cs
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\obj\Debug\net5.0\CSharp1.csproj.CoreCompileInputs.cache
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\obj\Debug\net5.0\CSharp1.dll
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\obj\Debug\net5.0\ref\CSharp1.dll
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\obj\Debug\net5.0\CSharp1.pdb
+C:\Users\rlawj\RiderProjects\CSharp1\CSharp1\obj\Debug\net5.0\CSharp1.genruntimeconfig.cache
